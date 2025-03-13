@@ -26,7 +26,7 @@ pipeline {
         }
          stage('Idli') {
             steps {
-                echo "Idli Vade Saambar!!!"
+                echo "Idli Saambar!!!"
             }
         }
     }
