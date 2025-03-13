@@ -24,7 +24,7 @@ pipeline {
                 bat './jenkins/scripts/deliver.bat'
             }
         }
-         stage('Deliver') {
+         stage('ವಂದನೆಗಳು') {
             steps {
                 eco "ವಂದನೆಗಳು!!!"
             }
