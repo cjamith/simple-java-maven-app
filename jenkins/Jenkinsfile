@@ -24,9 +24,9 @@ pipeline {
                 bat './jenkins/scripts/deliver.bat'
             }
         }
-         stage('Complete') {
+         stage('Idli') {
             steps {
-                echo "ವಂದನೆಗಳು!!!"
+                echo "Idli Vade Saambar!!!"
             }
         }
     }
